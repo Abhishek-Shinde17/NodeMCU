@@ -1,0 +1,5 @@
+This base upon nodemcu firebase configration 
+you may try to control the LED light
+go to file->profrences->additioalBoardURL and paste "http://arduino.esp8266.com/stable/package_esp8266com_index.json"(remove " " after paste )
+and nodemcu bord managet.
+add firebase file
